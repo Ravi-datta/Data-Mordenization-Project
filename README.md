@@ -1,4 +1,4 @@
-# MyMortgageDataModernizationProject
+# Data Modernization Project
 
 **A turnkey data modernization proof-of-concept for migrating mortgage servicing data from a CTW-style legacy system to a Snowflake Nexus-style platform, showcasing end-to-end profiling, mapping, and migration planning using Excel, SQL, and Python.**
 
