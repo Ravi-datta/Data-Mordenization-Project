@@ -121,8 +121,4 @@ python python/generate_docs.py
 - Automated profiling summary in Excel via `python/generate_docs.py`.
 - Sample outputs in `deliverables/samples/` for reference.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for enhancements or bug fixes.
 
-## License
-MIT © Your Name
