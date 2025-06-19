@@ -1,0 +1,6 @@
+CREATE OR REPLACE VIEW vw_validated_loans AS
+SELECT
+  TO_VARCHAR(LOAN_ID)      AS loan_key,
+  CAST(BALANCE AS NUMBER(12,2)) AS current_balance,
+  TO_DATE(ISSUE_DATE,'YYYY-MM-DD') AS issue_dt
+FROM CTW_LOANS;
